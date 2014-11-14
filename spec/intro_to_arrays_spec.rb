@@ -1,10 +1,10 @@
 describe "working with arrays" do
   context 'instantiating' do
 
-    it "creates an empty array and assigns to a variable" do
+    it "creates an empty array and assigns the array to a variable" do
       # create your array here
       # replace the underscore in expect with your variable
-      expect(__).to be_a(Array)
+      expect(__).to be_an(Array)
     end
 
     context 'instantiating an array with 2 objects' do
@@ -12,7 +12,7 @@ describe "working with arrays" do
 
       it "is an array" do
         # replace the underscore in expect with your variable
-        expect(__).to be_a(Array)
+        expect(__).to be_an(Array)
       end
 
       it "has 2 objects in it" do

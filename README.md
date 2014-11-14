@@ -3,7 +3,7 @@ tags: arrays, micro, introduction
 languages: ruby
 resources: 1
 ---
-# Intro To Arrays Lab
+# Introduction To Arrays
 
 ## Objectives
 
@@ -26,7 +26,8 @@ You will be filling out your answers in the spec.  For example:
 
  `expect(programmatic_solution).to be_a(Array)`
 
-What is a programmatic solution? Good Question! For example, let's say you're asked to create a string amanda and store it in a variable called name. We expect a solution that looks something like this:
+What is a programmatic solution? Good Question!
+Let's say you're asked to create a string amanda and store it in a variable called name. We expect a solution that looks something like this:
 
 ```ruby
 name = "amanda"
@@ -44,7 +45,7 @@ What we don't expect is a completed test that looks something like this:
 expect("amanda").to eq("amanda")
 ```
 
-Because even though the test will pass, it is not the right programmatic solution.
+Because even though the test will pass, it is not the right programmatic solution. Can you guess why?
 
 ## Resources
 
