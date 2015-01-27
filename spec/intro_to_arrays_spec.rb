@@ -17,7 +17,7 @@ describe "working with arrays" do
 
       it "has 2 objects in it" do
         # replace the underscore in expect with your variable
-        expect(__).to not_eq([])
+        expect(__).to_not eq([])
       end
     end
   end
