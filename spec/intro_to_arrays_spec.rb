@@ -29,23 +29,26 @@ describe "working with arrays" do
     end
 
     it "returns the first element in the array using its positive index" do
-      # answer = __ # replace the underscore with your answer
+      # replace the underscore with your answer
+      answer = __
       expect(answer).to eq("Welcome to New York")
     end
 
     it "returns the third element in the array using its positive index" do
-      # answer = taylor_swift[2]
-      answer = __ # replace the underscore with your answer
+      # replace the underscore with your answer
+      answer = __
       expect(answer).to eq("Style")
     end
 
     it "returns the last element in the array using its negative index" do
-      answer = __ # replace the underscore with your answer
+      # replace the underscore with your answer
+      answer = __
       expect(answer).to eq("Out of The Woods")
     end
 
     it "returns the second element in the array using its negative index" do
-      answer = __ # replace the underscore with your answer
+      # replace the underscore with your answer
+      answer = __
       expect(answer).to eq("Blank Space")
     end
   end
@@ -56,13 +59,15 @@ describe "working with arrays" do
     end
 
     it 'gets the first element in the array ' do
-      # answer = __ # replace the underscore with your answer
+      # replace the underscore with your answer
+      answer = __
       expect(answer).to eq("Thailand")
     end
 
 
     it 'gets the last element in the array' do
-      answer = __ # replace the underscore with your answer
+      # replace the underscore with your answer
+      answer = __
       expect(answer).to eq("Myanmar")
     end
   end
@@ -73,7 +78,8 @@ describe "working with arrays" do
     end
 
     it 'returns the length of the array' do
-      answer = __ # replace the underscore with your answer
+      # replace the underscore with your answer
+      answer = __
       expect(answer).to eq(8)
     end
   end
