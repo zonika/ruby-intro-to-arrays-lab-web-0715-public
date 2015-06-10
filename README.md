@@ -12,12 +12,12 @@ In previous lessons, you learnt about variables. An example of a variable:
 ```ruby
 name = "Tim"
 ```
-Variables can only store one item at a time and thus are not useful when we need to store large amount of data (that is store information about multiple items).
+Variables can only store one item at a time and thus are not useful when we need to store a large amount of data (that is store information about multiple items).
 
-Arrays, on the other hand, can store multiple items. These items are called elements of the array. Arrays can hold objects of any [data type](http://zetcode.com/lang/rubytutorial/datatypes/).Arrays can be created in various ways.
+Arrays, on the other hand, can store multiple items. These items are called elements of the array. Arrays can hold objects of any [data type](http://zetcode.com/lang/rubytutorial/datatypes/). Arrays can be created in various ways.
 > [Head over to the documentation on Arrays Ruby Docs to find out how arrays are created](http://www.ruby-doc.org/core-2.1.3/Array.html). Make sure you have your terminal open so that you can try out the different ways arrays are created in Ruby.
 
-An array is denoted by square brackets [ ].  Inside the brackets you can
+An array is denoted by square brackets `[ ]`.  Inside the brackets you can
  create a list of elements separated by commas.
 ```ruby
 list_of_names = ['Arel', 'Steven', 'Mitch', 'Tristan', 'Ian']
